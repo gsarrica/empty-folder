@@ -1,0 +1,3 @@
+content     emptyfolder    chrome/content/
+locale      emptyfolder    en-US	locale/en-US/
+overlay chrome://messenger/content/messenger.xul chrome://emptyfolder/content/emptyfolder.xul
